@@ -1,9 +1,14 @@
-# genIA
-Documentación del taller de platohedro en la cinemateca de bogota 2023
+<h1 align="center">genIA</h1>
+
+<div align="center">
+  
+  <p> Documentación del taller de platohedro en la cinemateca de bogota 2023 </p>
+
+  ## Introducción a la generación de imágen con Inteligencia Artificial 
+
+![](https://github.com/platohedro/lab_AI_transjaquer/blob/main/images/index.gif?raw=true)
 
 
-
-## Introducción a la generación de imágen con Inteligencia Artificial 
 
 
 
@@ -66,7 +71,6 @@ Documentación del taller de platohedro en la cinemateca de bogota 2023
 
 
 
-
-
+</div>
 
 
