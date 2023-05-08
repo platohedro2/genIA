@@ -9,9 +9,9 @@ Documentación del taller de platohedro en la cinemateca de bogota 2023
 
 ## Antecedentes Historicos
 
-[El camino del software. Breve historia de la Inteligencia Artificial 3](https://www.linuxadictos.com/el-camino-del-software-breve-historia-de-la-inteligencia-artificial-3.html)
+[El camino del software. Breve historia de la Inteligencia Artificial 1](https://www.linuxadictos.com/el-camino-del-software-breve-historia-de-la-inteligencia-artificial-3.html)
 
-[La primera edad de oro. Breve historia de la Inteligencia Artificial 4](https://www.linuxadictos.com/la-primera-edad-de-oro-breve-historia-de-la-inteligencia-artificial-4.html)
+[La primera edad de oro. Breve historia de la Inteligencia Artificial 2](https://www.linuxadictos.com/la-primera-edad-de-oro-breve-historia-de-la-inteligencia-artificial-4.html)
 
 
 # AI Y cambio climatico 
