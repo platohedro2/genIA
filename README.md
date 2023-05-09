@@ -89,7 +89,9 @@
   
   [nteligencia artificial feminista: Hacia una agenda de investigación en América Latina y el Caribe](https://archive.org/details/inteligencia-artificial-feminista/page/n1/mode/2up?view=theater )
 I 
+  <p>
 Textos:
+  </p>
   
 La sabiduría del no saber y la lA descolonial
 Inteligencia artificial y la imaginación feminista descolonial
