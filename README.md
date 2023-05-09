@@ -100,10 +100,13 @@ Textos:
 * Lanier, J. (2021). Al is an ideology, not a technology. Wired.
 * https: //www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/ 
 
-Artículos:
-https://vientosur.info/descolonizando-la-inteligencia-artificial-un-enfoque-transfeminista/ 
   
-https://www.unesco.org/es/articles/nuevo-informe-de-la-unesco-sobre-inteligencia-artificial-e-igualdad-de-genero  
+  <p> 
+Artículos: </p>
+  
+[Articulo 1](https://vientosur.info/descolonizando-la-inteligencia-artificial-un-enfoque-transfeminista/ )
+  
+[Articulo 2](https://www.unesco.org/es/articles/nuevo-informe-de-la-unesco-sobre-inteligencia-artificial-e-igualdad-de-genero)   
 
 </div>
 
