@@ -81,9 +81,12 @@
   
   
 Alan Turing
-Donna Haraway https://xenero.webs.uvigo.es/profesorado/beatriz_suarez/ciborg.pdf 
+ 
+  [Donna Haraway](https://xenero.webs.uvigo.es/profesorado/beatriz_suarez/ciborg.pdf )
+
+[Sayak Valencia, 2018. El transfeminismo no es un generismo](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0719-36962018000200027#:~:text=Al%20igual%20que%20otros%20movimientos,o%20dialogar%20con%20el%20Estado)  
   
-Sayak Valencia, 2018. El transfeminismo no es un generismo  https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0719-36962018000200027#:~:text=Al%20igual%20que%20otros%20movimientos,o%20dialogar%20con%20el%20Estado 
+  
   
 Inteligencia artificial feminista: Hacia una agenda de investigación en América Latina y el Caribe https://archive.org/details/inteligencia-artificial-feminista/page/n1/mode/2up?view=theater 
 Textos: 
