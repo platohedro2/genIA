@@ -70,6 +70,15 @@
 
 
 
+  <h1> Proporciones  para las imagenes </h1>
+  
+  
+  <p> 4:3 | 600 x 450 </p>
+  
+  <p> 16:9 | 800x 500 </p>
+  
+  <p>  1:1 | 512 x 512</p>
+  
 
 </div>
 
